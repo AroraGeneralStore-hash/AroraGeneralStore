@@ -13,10 +13,5 @@
     { "name": "Milton Bottle", "price": "$10", "img": "bottle.png" },
     { "name": "Milton Bottle", "price": "$10", "img": "bottle.png" },
     { "name": "Milton Bottle", "price": "$10", "img": "bottle.png" },
-    {
-  "name": "Bathroom Set",
-  "image": "bathroomsetganesh.jpg",
-  "description": "High-quality plastic bathroom set, durable & stylish.",
-  "price": 999
-}
+    { "name": "Bathroomset", "price": "850(Rs)", "img": "bathroomsetganesh.png" }
 ]
