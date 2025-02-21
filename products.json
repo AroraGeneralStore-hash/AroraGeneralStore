@@ -15,7 +15,6 @@
     { "name": "Milton Bottle", "price": "$10", "img": "bottle.png" },
     {
     "name": "Bathroom Set",
-    "image": "bathroomset.jpg",
     "description": "High-quality plastic bathroom set, durable & stylish.",
     "price": 999
   }
